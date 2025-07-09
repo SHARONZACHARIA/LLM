@@ -5,7 +5,7 @@ It’s developed as part of a research methods assignment focusing on training, 
 
 ---
 
-##  Dataset
+###  Dataset
 
 - **Name:** Amazon Polarity
 - **Description:** Large-scale dataset of Amazon product reviews labeled as positive or negative.
@@ -13,7 +13,7 @@ It’s developed as part of a research methods assignment focusing on training, 
 
 ---
 
-##  Methodology
+###  Methodology
 
 - Exploratory Data Analysis (EDA) on review text and label distribution.
 - Text cleaning and tokenization using BERT’s tokenizer.
@@ -23,11 +23,9 @@ It’s developed as part of a research methods assignment focusing on training, 
 - Visualization of training progress and evaluation metrics.
 - Saving and loading the trained model for inference.
 
-# License
+### License
 
-This project is licensed for academic and educational use only.
+This project is licensed under MIT License.Please see the license tab 
 
-You are free to:
+---
 
-- View and use the code and documentation for learning purposes.
-- Reproduce or adapt the code for personal, non-commercial projects.
