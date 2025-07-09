@@ -1,4 +1,4 @@
-# Sentiment Based Text Classification on Amazon Reviews Using BER
+# Sentiment Based Text Classification on Amazon Reviews Using BERT
 
 This project performs sentiment analysis on the Amazon Polarity dataset using a fine-tuned BERT transformer model.
 It’s developed as part of a research methods assignment focusing on training, fine-tuning, and evaluating large language models (LLMs) for text classification tasks.
