@@ -9,7 +9,7 @@ It’s developed as part of a research methods assignment focusing on training, 
 
 - **Name:** Amazon Polarity
 - **Description:** Large-scale dataset of Amazon product reviews labeled as positive or negative.
-- **Source:** [Hugging Face Datasets](https://huggingface.co/datasets/amazon_polarity)
+- **Source:** [Hugging Face Datasets](https://huggingface.co/datasets/mteb/amazon_polarity)
 
 ---
 
@@ -23,3 +23,11 @@ It’s developed as part of a research methods assignment focusing on training, 
 - Visualization of training progress and evaluation metrics.
 - Saving and loading the trained model for inference.
 
+# 📄 License
+
+This project is licensed for academic and educational use only.
+
+You are free to:
+
+- View and use the code and documentation for learning purposes.
+- Reproduce or adapt the code for personal, non-commercial projects.
